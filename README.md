@@ -40,3 +40,10 @@ Parts:
 | GPIO20 | Button 4                         | Digital |
 
 Arduino IDE használatával
+
+### Képgaléria
+
+| | |
+| :---: | :---: |
+| <img src="IMG_20251214_131527.jpg" width="100%" > | <img src="IMG_20251214_131846.jpg" width="100%" > |
+| <img src="IMG_20251214_131857.jpg" width="100%" > | <img src="IMG_20251214_131910.jpg" width="100%" > |
